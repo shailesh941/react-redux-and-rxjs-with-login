@@ -1,0 +1,26 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #f4f6f9;
+}
+.custom-table{
+  .table{
+    tr{
+      th{
+        font-size: 13px;
+      }
+      td{
+        font-size: 13px;
+      }
+    }
+  }
+}
+.custom-card{
+  .card-header{
+    background: #fff;
+  }
+}
